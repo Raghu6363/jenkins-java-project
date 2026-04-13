@@ -18,11 +18,11 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>Raghu</label>
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>Password</label>
+          <label>Pass</label>
         </div>
         <button type="submit"> raam</button>
         <div class="form-help">
